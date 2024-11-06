@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click Here](https://your-solution-url.com)
-- Live Site URL: [Click Here](https://your-live-site-url.com)
+- Solution URL: [Click Here](https://github.com/MaulidFajar/Article-Preview-Section-UI)
+- Live Site URL: [Click Here](https://maulidfajar.github.io/Article-Preview-Section-UI/)
 
 ## My process
 
